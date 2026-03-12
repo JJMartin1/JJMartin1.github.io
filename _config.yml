@@ -300,8 +300,7 @@ defaults:
     values:
       layout: single
       title: true
-      course_description: true
-      project_description: true
+      author_profile: true
       url: true
 
 # Sass/SCSS
