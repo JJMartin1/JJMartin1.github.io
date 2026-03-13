@@ -3,6 +3,7 @@ title: "DAAN 871 Course Project"
 excerpt: 'DAAN 871: Data Visualization'
 collection: project
 ---
+Demonstrates usage of Qlik Sense, a tool comparable to Microsoft Power BI, for visualization of a large public dataset.
 <iframe
 src="https://docs.google.com/gview?url=https://jjmartin1.github.io/files/DAAN871FinalProject.pdf&embedded=true"
 width="100%"
